@@ -10,6 +10,7 @@ This will show my progress as a student learning to code.
 # Description
 First Arduino coding
 # Code 
+[Hello Arduino] 
 https://create.arduino.cc/editor/Bmartin10/6848431e-488e-4123-ab08-1b38b8948d0b
 
 # Picture
@@ -23,7 +24,11 @@ Easy, and fun. It's tricky, but fun at the same time.
 # Description
 This is the Led blinker for engineering class.
 
+# Picture 
+
+
 # Code 
+[Finite LED Blinker] 
 https://create.arduino.cc/editor/Bmartin10/53e161a6-bd8f-4640-9db4-75d4316accfc
 
 # Lesson and productivity
@@ -35,6 +40,9 @@ Productivity was good, and it didn't seem as hard as I thought it would be.
 
 # Description
 This took a little time to do. 
+
+# Picture 
+
 # Code 
 https://create.arduino.cc/editor/Bmartin10/f83f293a-5935-4620-bee7-aee29b760fbd
 
