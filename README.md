@@ -10,8 +10,7 @@ This will show my progress as a student learning to code.
 # Description
 First Arduino coding
 # Code 
-[Hello Arduino] 
-(https://create.arduino.cc/editor/Bmartin10/6848431e-488e-4123-ab08-1b38b8948d0b) 
+[Hello Arduino] (https://create.arduino.cc/editor/Bmartin10/6848431e-488e-4123-ab08-1b38b8948d0b) 
 
 # Picture
 
